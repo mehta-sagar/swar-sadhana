@@ -1,0 +1,17 @@
+{
+  "name": "સ્વર સાધના — શાસ્ત્રીય ગાયન",
+  "short_name": "સ્વર સાધના",
+  "description": "હિંદુસ્તાની શાસ્ત્રીય ગાયન: સાધના, રાગ, તાલ, જ્ઞાન — ગુજરાતીમાં",
+  "lang": "gu",
+  "start_url": "./index.html#home",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbf6ee",
+  "theme_color": "#8a2432",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
